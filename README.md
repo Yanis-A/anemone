@@ -26,8 +26,8 @@ microphone.
 ## What it does
 
 - **Voice**: DeepFilterNet noise removal, then a broadcast-style chain (leveling, EQ, compression, de-essing, limiting) with four characters: *Clean*, *Broadcast*, *Radio* and *Radio+*.
-- **FX rack**: four slots of voice effects on hotkeys, in Hold or Toggle mode: *Autotune*, *Space* (echo, reverb), *Lo-fi* (telephone, megaphone, walkie-talkie) and *Demon*.
-- **Soundboard**: 16 pads with their own sound, volume and hotkey, in *Layer* or *Cut* mode.
+- **FX rack**: four slots of voice effects on hotkeys, in Hold or Toggle mode: *Autotune* (hard, soft or max), *Space* (echo, reverb or canyon), *Lo-fi* (telephone, megaphone, or a push-to-talk walkie-talkie with its squelch) and *Demon*.
+- **Soundboard**: 16 pads with their own sound, volume and hotkey, in *Layer* or *Cut* mode. Silence at the start and end of a sound is trimmed, so a pad fires at once.
 - **Music**: a playlist that stays, which ducks under your voice.
 - **Mix and output**: one limiter before the call; your headphones get their own level, with your own voice optional.
 - A rearrangeable window with layout presets, global hotkeys, and a tray icon to keep it running.

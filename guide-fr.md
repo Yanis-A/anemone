@@ -36,6 +36,12 @@ Clique sur **Vérifions** pour t'entendre comme les autres t'entendent.
 
 Dans un jeu qui a son propre chat vocal, choisis `CABLE Output` comme micro, et coupe sa suppression de bruit s'il en a une.
 
+## Les effets
+
+Le panneau Rack FX a quatre emplacements. Un clic allume ou éteint un effet, et le clic droit choisit l'effet, sa variante, son intensité, son raccourci et son mode : *Bascule* (un appui allume, le suivant éteint) ou *Maintien* (actif tant que tu tiens la touche).
+
+Pour le talkie-walkie du RP : choisis la variante *Walkie* du Lo-fi (elle passe d'elle-même en *Maintien*) et donne-lui un raccourci. Tu parles en tenant la touche, et le « kssht » part quand tu la relâches.
+
 ## Bon à savoir
 
 - **Te couper** : le bouton **ON AIR** en haut d'Anemone (On/Off) coupe tout ce qui part vers l'appel. Il a un raccourci global, qui marche aussi en jeu.
