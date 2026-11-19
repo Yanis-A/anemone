@@ -29,6 +29,8 @@ microphone.
 - **FX rack**: four slots of voice effects on hotkeys, in Hold or Toggle mode: *Autotune* (hard, soft or max), *Space* (echo, reverb or canyon), *Lo-fi* (telephone, megaphone, or a push-to-talk walkie-talkie with its squelch) and *Demon*.
 - **Soundboard**: 16 pads with their own sound, volume and hotkey, in *Layer* or *Cut* mode. Silence at the start and end of a sound is trimmed, so a pad fires at once.
 - **Music**: a playlist that stays, which ducks under your voice.
+- **Your own VST3 effects** in the rack's slots, next to the built-in ones, found in your plugin folders (FL Studio's folders can be imported). VST3 only; Waves plugins are skipped.
+- **Windows' microphone, optionally**: while Anemone runs it can make the cable Windows' default microphone, so apps without a microphone setting (a browser tab, some games) hear your processed voice; quitting gives your microphone back.
 - **Mix and output**: one limiter before the call; your headphones get their own level, with your own voice optional.
 - A rearrangeable window with layout presets, global hotkeys, and a tray icon to keep it running.
 - Interface in **English and French**, following your Windows language.

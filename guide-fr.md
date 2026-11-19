@@ -42,6 +42,18 @@ Le panneau Rack FX a quatre emplacements. Un clic allume ou éteint un effet, et
 
 Pour le talkie-walkie du RP : choisis la variante *Walkie* du Lo-fi (elle passe d'elle-même en *Maintien*) et donne-lui un raccourci. Tu parles en tenant la touche, et le « kssht » part quand tu la relâches.
 
+## Tes plugins VST3
+
+Dans le panneau des appareils, section *Plugins (VST3)* : ajoute tes dossiers de plugins (ou coche *Reprendre les dossiers de FL Studio*), puis *Rechercher mes plugins (VST3)*. Ils apparaissent ensuite dans le clic droit d'une tuile du rack, *Effet* › *VST3* ; *Ouvrir l'interface* montre leur fenêtre. Seuls les VST3 sont pris en charge, et les plugins Waves sont écartés.
+
+## Les applis sans réglage de micro
+
+Un onglet de navigateur ou certains jeux prennent le micro de Windows sans demander. Coche *Devenir le micro de Windows quand Anemone tourne* dans le panneau des appareils : tant qu'Anemone tourne, ces applis entendent ta voix traitée. Quand tu le quittes, ton micro revient.
+
+## Carte son à plusieurs entrées
+
+Si ton entrée a deux canaux (par exemple « Analogue 1/2 »), choisis le bon dans *Canal d'entrée* : *1* si ton micro est branché sur l'entrée 1. En cas de souci, le lien *Ouvrir le journal des appareils* montre ce que la carte a vraiment donné.
+
 ## Bon à savoir
 
 - **Te couper** : le bouton **ON AIR** en haut d'Anemone (On/Off) coupe tout ce qui part vers l'appel. Il a un raccourci global, qui marche aussi en jeu.
