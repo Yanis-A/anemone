@@ -38,7 +38,7 @@ Dans un jeu qui a son propre chat vocal, choisis `CABLE Output` comme micro, et 
 
 ## Les effets
 
-Le panneau Rack FX a quatre emplacements, traversés dans l'ordre des chevrons (de 1 à 4) ; glisse une tuile sur une autre pour changer l'ordre. Un effet en *Bascule* laissé allumé le reste au prochain lancement. Un clic allume ou éteint un effet, et le clic droit choisit l'effet, sa variante, son intensité, son raccourci et son mode : *Bascule* (un appui allume, le suivant éteint) ou *Maintien* (actif tant que tu tiens la touche).
+Le panneau Rack FX a quatre emplacements, traversés dans l'ordre des chevrons (de 1 à 4) ; glisse une tuile pour la déplacer dans la chaîne, les autres lui font de la place. Un effet en *Bascule* laissé allumé le reste au prochain lancement. Un clic allume ou éteint un effet, et le clic droit choisit l'effet, sa variante, son intensité, son raccourci et son mode : *Bascule* (un appui allume, le suivant éteint) ou *Maintien* (actif tant que tu tiens la touche).
 
 Pour le talkie-walkie du RP : choisis la variante *Walkie* du Lo-fi (elle passe d'elle-même en *Maintien*) et donne-lui un raccourci. Tu parles en tenant la touche, et le « kssht » part quand tu la relâches.
 

@@ -26,7 +26,7 @@ microphone.
 ## What it does
 
 - **Voice**: DeepFilterNet noise removal, then a broadcast-style chain (leveling, EQ, compression, de-essing, limiting) with four characters: *Clean*, *Broadcast*, *Radio* and *Radio+*.
-- **FX rack**: four slots of voice effects in series (drag a slot onto another to reorder the chain), on hotkeys, in Hold or Toggle mode: *Autotune* (hard, soft or max), *Space* (echo, reverb or canyon), *Lo-fi* (telephone, megaphone, or a push-to-talk walkie-talkie with its squelch) and *Demon*.
+- **FX rack**: four slots of voice effects in series (drag a slot to move it in the chain, the others make room), on hotkeys, in Hold or Toggle mode: *Autotune* (hard, soft or max), *Space* (echo, reverb or canyon), *Lo-fi* (telephone, megaphone, or a push-to-talk walkie-talkie with its squelch) and *Demon*.
 - **Soundboard**: 16 pads with their own sound, volume and hotkey, in *Layer* or *Cut* mode. Silence at the start and end of a sound is trimmed, so a pad fires at once.
 - **Music**: a playlist that stays, which ducks under your voice.
 - **Your own VST3 effects** in the rack's slots, next to the built-in ones, found in your plugin folders (FL Studio's folders can be imported). VST3 only; Waves plugins are skipped.
